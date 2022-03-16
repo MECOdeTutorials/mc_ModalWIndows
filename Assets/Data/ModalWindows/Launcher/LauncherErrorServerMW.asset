@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f45846060ee03604d9c1dee0f5557629, type: 3}
+  m_Name: LauncherErrorServerMW
+  m_EditorClassIdentifier: 
+  key: error_server
+  title: SERVER ERROR
+  content: Server connection failed
+  hasConfirmButton: 1
+  hasActionButton: 0
+  hasDeclineButton: 1
+  confirmBtnText: RETRY
+  actionBtnText: 
+  declineBtnText: QUIT
